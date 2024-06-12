@@ -1,12 +1,14 @@
 # c18-64-t-data-bi
 
-# Poli-date
+# Best Housing Data
 
 # Descripción del proyecto
 
-Proyecto de Mapa del Delito en la Ciudad Autónoma de Buenos Aires. El mismo busca generar a partir de un analisis de datos y posterior modelado en machine learnig o redes neurorales una serie de insights vinculadas a entender la problematica del delito en la ciudad, para luego avanzar hacia un modelo de aprendizaje automático e inteligencia artificial.
+Por medio del modelado en Machine Learning y el Aprendizaje Supervisado se busca predecir el nivel de correlación entre los delitos y los precios de los inmuebles en el espacio de de Ciudad Autónoma de Buenos Aires, utilizando un modelo de Regresión Lineal u otro modelo predictivo.
 
-Dicho proyecto esta orientado a los creadores de politicas publicas en las ramas de gobierno pertinentes a la temática, como a empresas del sector que brinden ayuda al gobierno local en aspectos vinculados al monitoreo y prevención del delito.
+Desde instituciones públicas y privadas, empresas vinculadas al mercado inmobiliario y desde particulares como potenciales compradores se busca encontrar, por medio del analisis de datos, los indicadores, KPIs e Insights que permitan en una etapa posterior generar automatización de procesos, mejora en los tiempos de respuesta y mayor eficiencia en la generación de respuestas ante la toma de decisiones para adquirir un inmueble.
+
+El presente proyecto busca demostrar por medio de su hipotesis principal que las variables relacionadas al precio de los inmuebles se encuentra condicionada por variables como tipo de delito, uso de armar,etc.
 
 # Colaboradores
 
@@ -18,7 +20,7 @@ Armando Escobar LinkedIn: www.linkedin.com/in/armando-dev/
 
 Claudio Ferriz LinkedIn: www.linkedin.com/in/claudio-alberto-ferriz/
 
-# Tegnologías utilizadas
+# Tecnologías utilizadas
 
 - Excel
 - Power BI
@@ -31,6 +33,7 @@ Claudio Ferriz LinkedIn: www.linkedin.com/in/claudio-alberto-ferriz/
 - Scikitlearn
 - Adobe Color
 - Canva
+- Inkscape
 
 # Enlaces
 
