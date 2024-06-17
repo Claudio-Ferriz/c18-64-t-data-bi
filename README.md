@@ -23,7 +23,6 @@ Claudio Ferriz LinkedIn: www.linkedin.com/in/claudio-alberto-ferriz/
 # Tecnologías utilizadas
 
 - Excel
-- Power BI
 - Jupyter Notebook
 - Python
 - Numpy
@@ -37,3 +36,4 @@ Claudio Ferriz LinkedIn: www.linkedin.com/in/claudio-alberto-ferriz/
 
 # Enlaces
 
+Presentación: https://drive.google.com/file/d/1JBkf_8I-3tj7s0IryNp0j-5XtDzsC9sf/view?usp=sharing
